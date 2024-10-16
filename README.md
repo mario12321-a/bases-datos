@@ -1,7 +1,7 @@
 # bases-prueba
 esta es la descripcion del proyecto
 
-![La mejor imagen de linux ](descargas/imagenhoja.jpg)
+![La mejor imagen de linux ](imagen_hoja.jpg)
 ##Seccion
 
 una lista:
