@@ -4,9 +4,9 @@ esta es la descripcion del proyecto
 ##Seccion
 
 una lista:
--hola
--que tal
--algo mas
+   -hola
+   -que tal
+   -algo mas
 
 otra lista ordenada:
 1. primer paso
